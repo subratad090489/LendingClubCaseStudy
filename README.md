@@ -5,7 +5,7 @@ Apply EDA technique to minimise risk of losing money while lending to customer
 
 **Data_Dictionary.xlsx**                         --> File contains Loan data dictionary 
 
-**Lending Club Case Study (Suhas Naik).ipynb**   --> Python file contains the EDA technique for the case study
+**Lending Club Case Study (Subrata Das).ipynb**   --> Python file contains the EDA technique for the case study
 
 **Lending Club Case Study.pdf**                  --> Presentation overall approach and summary
 
